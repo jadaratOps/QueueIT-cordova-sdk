@@ -1,6 +1,6 @@
 ﻿# cordova-sdk
 
-Cordova plugin for integrating Queue-it's virtual waiting room into Cordova/Ionic apps.
+Cordova plugin for integrating Queue-it's virtual waiting room into Cordova/Ionic apps, Compatiable with MABS 10 (Outsystems).
 
 ## Sample app
 
